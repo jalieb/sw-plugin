@@ -1,0 +1,9 @@
+{
+    "name": "jalieb/sw-plugin",
+    "type": "shopware-plugin",
+    "description": "Ein Beispielplugin mit composer.json.",
+    "license": "MIT",
+    "extra": {
+        "installer-name": "SwPlugin"
+    }
+}
